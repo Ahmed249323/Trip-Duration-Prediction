@@ -451,14 +451,6 @@ The model incorporates knowledge of key NYC locations:
 - **Location Effects**: Manhattan trips vs. airport trips have different patterns
 - **Passenger Impact**: Group trips may have different duration characteristics
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is licensed under the MIT License.
@@ -480,7 +472,6 @@ This project is licensed under the MIT License.
 - [NYC Taxi Trip Duration Dataset](https://www.kaggle.com/competitions/nyc-taxi-trip-duration) - Kaggle Competition
 - [Haversine Formula](https://en.wikipedia.org/wiki/Haversine_formula) for great-circle distance calculations
 - [Scikit-learn Ridge Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html)
-- [NYC Taxi and Limousine Commission](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 ---
 
